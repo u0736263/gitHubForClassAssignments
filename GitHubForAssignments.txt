@@ -1,1 +1,1 @@
-I will download assignment to github from my computer. I'm not sure how I feel about VS yet.
+I will download and upload files directly on GitHub. I'm not sure how I feel about VS yet. I had a hard time following the steps to get it to push and pull. It kept telling me I needed to setup my user name and user email. Had to google how to do that, followed the steps without any success, went back to VS and it worked. So somehow in my attempts to setup my global username/email it somehow worked!
